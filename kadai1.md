@@ -6,6 +6,7 @@ cloneした時のローカルファイルの場所で最新のリポジトリの
 
 ```
 git fetch
+git pull origin main
 ```
 
 2.README.md に2個目の解説を追記
